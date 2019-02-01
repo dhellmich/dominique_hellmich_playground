@@ -1,2 +1,2 @@
 # dominique_hellmich_playground
-webinar info
+a place to play with git!
